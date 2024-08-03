@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejaswini Shinde</h1>
 <h3 align="center">A passionate Web Development from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2HQmR-GXgGShnL8c2tZbPr&ust=1722787971685000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCNCrxL-b2YcDFQAAAAAdAAAAABA4" align="right" alt="Coding" width="400">
+<img src="C:\Users\anike\Downloads\CODING.gif" align="right" alt="Coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejus346&label=Profile%20views&color=0e75b6&style=flat" alt="tejus346" /> </p>
 
 - 🌱 I’m currently learning **React.js**

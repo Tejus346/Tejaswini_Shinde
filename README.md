@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejaswini Shinde</h1>
 <h3 align="center">A passionate Web Development from India</h3>
-<img src="C:\Users\anike\Downloads\CODING.gif" align="right" alt="Coding" width="400">
+<img src="C:/Users/anike/Downloads/CODING.gif" align="right" alt="Coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejus346&label=Profile%20views&color=0e75b6&style=flat" alt="tejus346" /> </p>
 
 - 🌱 I’m currently learning **React.js**
